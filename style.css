@@ -1,0 +1,36 @@
+body {
+    background-image: url("mayur-gala-2PODhmrvLik-unsplash.jpg");
+    background-size:cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+input {
+    margin: 10px;
+}
+
+.plus {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+
+}
+
+.result {
+    color: white;
+    font-size: 70px;
+    padding: 20px
+} 
+
+.hidden {
+    display: none;
+}
